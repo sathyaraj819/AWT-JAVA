@@ -24,7 +24,7 @@ public class A extends Applet
          g.setColor(Color.blue);  // Now we tell g to change the color 
         //Syntax For:- drawLine(int x1, int y1, int x2, int y2); 
          g.drawLine(90, 135, 90, 180); 
-        g.setColor(Color.pink);  // Now we tell g to change the color 
-        g.drawLine(0, 0, 100, 100); 
+        //g.setColor(Color.green);  // Now we tell g to change the color 
+     //   g.drawLine(0, 0, 100, 100); 
    } 
 } 
